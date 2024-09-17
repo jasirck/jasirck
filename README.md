@@ -6,7 +6,7 @@
 💬 **Ask me about:** Building efficient APIs, Django frameworks, and scaling web apps.  
 ⚡ **Fun fact:** I thrive on learning new things and tackling challenges head-on!
 
-t="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="margin-left: 20px; margin-bottom: 20px;" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" style="margin-left: 20px; margin-bottom: 20px;" />
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
