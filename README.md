@@ -25,10 +25,6 @@
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) |  |  |
 
-## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasirck&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasirck&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasirck&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jasirck&theme=radical&no-frame=false&no-bg=true&margin-w=4)
